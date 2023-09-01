@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LqrQANTKNKa7kwGuPQfhFGPjBUnsoucTJz83nCmbvH4=",
+  "Source": "SendEmailGoogle",
+  "BasePath": "_content/SendEmailGoogle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
